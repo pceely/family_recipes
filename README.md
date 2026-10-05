@@ -8,6 +8,3 @@
 
 # new section
 
-* baking
-
-# deliberate error
