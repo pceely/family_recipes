@@ -6,5 +6,5 @@
 * sauces (todo) 
 * spreads (todo)
 
-# new section
+# new baking section
 
