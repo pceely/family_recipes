@@ -1,6 +1,6 @@
 # README
 # 
-# this is a book of family recipes
+# this is a library of family recipes
 
 * pizzas (todo)
 - [base](./pizzas/base.md)
