@@ -9,3 +9,6 @@
 
 # new baking section
 
+* bahn mi mini-baguette
+* cinnabun
+
